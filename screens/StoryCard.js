@@ -44,7 +44,7 @@ export default class StoryCard extends Component {
         <View style={styles.container}>
           <View style={styles.cardContainer}>
             <Image
-              source={require('../assets/story_image_1.png')}
+              source={require('../assets/story_image_2.png')}
               style={styles.storyImage}
             />
             <View style={styles.titleContainer}>
